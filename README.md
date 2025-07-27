@@ -30,25 +30,8 @@ Each project here reflects my skills in transforming raw data into actionable in
 Chaithanya-Analytics-Lab/
 │
 ├── README.md
-│
 ├── excel-powerbi/
 │ └── coffee-shop-sales/
 │ ├── CoffeeShopDashboard.pbix
 │ ├── sales-data.xlsx
-│ └── README.md
-│
-├── python/
-│ └── ecommerce-eda/
-│ ├── ecommerce_analysis.ipynb
-│ ├── data.csv
-│ └── README.md
-│
-├── sql/
-│ └── hospital-analysis/
-│ ├── hospital_queries.sql
-│ └── README.md
-│
-├── tableau/
-│ └── global-superstore/
-│ ├── dashboard.twb
 │ └── README.md
