@@ -18,7 +18,7 @@ Each project here reflects my skills in transforming raw data into actionable in
 
 | Project | Tools Used | Description |
 |--------|------------|-------------|
-| [Coffee Shop Sales Analysis]([./[excel-powerbi/coffee-shop-sales](https://github.com/cspoojary/Coffee-Shop-Sales-Analysis)](https://github.com/cspoojary/Coffee-Shop-Sales-Analysis)) | Excel, Power BI | Sales trends, peak hours, top products |
+| [Coffee Shop Sales Analysis] | Excel, Power BI | Sales trends, peak hours, top products |
 | [HR Analytics Dashboard](./powerbi/hr-dashboard) | Power BI | Employee attrition and workforce insights |
 | [E-commerce Customer Behavior](./python/ecommerce-eda) | Python | EDA and visualization of customer data |
 | [Hospital Patient SQL Queries](./sql/hospital-analysis) | SQL | Query-based reporting and KPIs |
