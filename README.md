@@ -31,11 +31,12 @@ Each project here reflects my skills in transforming raw data into actionable in
 ```
 Chaithanya-Analytics-Lab/
 ├── README.md
-├── excel-powerbi/
+├── excel/
 │ └── coffee-shop-sales/
 │ ├── CoffeeShopDashboard.pbix
+├──MySQL
 │ ├── sales-data.xlsx
-│ └── README.md
+│── README.md
 
 ```
 
