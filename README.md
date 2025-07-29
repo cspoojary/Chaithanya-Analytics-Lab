@@ -32,7 +32,7 @@ Each project here reflects my skills in transforming raw data into actionable in
 Chaithanya-Analytics-Lab/
 ├── README.md
 ├── excel/
-│ └── coffee-shop-sales/
+│ └── Coffee-Shop-Sales-Analysis
 │ ├── CoffeeShopDashboard.pbix
 ├──MySQL
 │ ├── sales-data.xlsx
