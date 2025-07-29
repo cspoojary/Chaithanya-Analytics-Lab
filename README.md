@@ -33,7 +33,7 @@ Chaithanya-Analytics-Lab/
 ├── README.md
 ├── excel/
 │ └── Coffee-Shop-Sales-Analysis
-│ ├── CoffeeShopDashboard.pbix
+│ ├── Ferns_and_Petals_Sales_Analysis
 ├──MySQL
 │ ├── sales-data.xlsx
 │── README.md
