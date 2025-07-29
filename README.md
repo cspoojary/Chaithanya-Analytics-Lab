@@ -28,13 +28,14 @@ Each project here reflects my skills in transforming raw data into actionable in
 ---
 
 ## 📂 Folder Structure
-'''
+```
 Chaithanya-Analytics-Lab/
 ├── README.md
 ├── excel-powerbi/
-│   └── coffee-shop-sales/
-│       ├── CoffeeShopDashboard.pbix
-│       ├── sales-data.xlsx
-│       └── README.md
-'''
+│ └── coffee-shop-sales/
+│ ├── CoffeeShopDashboard.pbix
+│ ├── sales-data.xlsx
+│ └── README.md
+
+```
 
