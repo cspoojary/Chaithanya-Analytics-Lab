@@ -28,10 +28,10 @@ Each project here reflects my skills in transforming raw data into actionable in
 ```
 Chaithanya-Analytics-Lab/
 ├── README.md
-├── excel/
+├── Excel/
 │ └── Coffee-Shop-Sales-Analysis
 │ ├── Ferns_and_Petals_Sales_Analysis
-├──MySQL
+├──MySQL/
 │ ├── sales-data.xlsx
 │── README.md
 
