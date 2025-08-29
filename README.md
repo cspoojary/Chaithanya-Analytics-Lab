@@ -14,11 +14,6 @@ Each project here reflects my skills in transforming raw data into actionable in
 
 ---
 
-## 📄 Resume
-[View My Resume](https://github.com/cspoojary/Chaithanya-Analytics-Lab/blob/main/Chaithanya-S-Resume.pdf)
-
----
-
 ## 📁 Projects Overview
 
 | Project | Tools Used | Description |
